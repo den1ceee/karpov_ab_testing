@@ -2,7 +2,7 @@
 Hello! Here I store my 2 A/B analysis projects completed during my study on Karpov.Courses <br>
 Date - 04/2023
 
-## 1st Case Description 
+## 1st Project Description 
 *Case #1 - Dating App*
 
 You work as an analyst in an online dating application. The mechanics of the app is as follows: users see each other's profiles in the app and can give each other likes or dislikes. If users like each other, it's called a match, and users have the opportunity to get to know each other.
